@@ -1,7 +1,7 @@
 ### Olá, me chamo Giovanni!
 
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas.
-- 🤔 I’m looking for help with ...
+- 🤔 Um pouco sobre meu perfil:
 
 <div align="center">
   <a href="https://github.com/DellaGiovanni">
